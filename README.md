@@ -56,6 +56,8 @@ First 5 rows of forecast data:
 2025-09-22 04:00:00            26.0                    92            3.3
 ```
 
-Graph example:
+## Output
 
-![Temperature Forecast](outputs/forecast_plot.png)
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/0da03218-83e6-428e-a92a-a31f2d585766" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/3204e97d-c03b-4a07-afc4-be03171753c8" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/1be99188-2119-4e42-b1b9-252e41dea8d7" />
